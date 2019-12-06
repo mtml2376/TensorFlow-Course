@@ -1,9 +1,12 @@
-numpy
-scipy
-python-coveralls
-tensorflow
-matplotlib
-xlrd
-scikit-learn
-pandas
-scikit-image
+pip==19.3.1
+
+jupyterlab==1.2.3
+numpy==1.17.4
+scipy==1.3.3
+python-coveralls==2.9.3
+tensorflow == 2.0.0
+matplotlib==3.1.2
+xlrd==1.2.0
+scikit-learn==0.21.3
+pandas==0.25.3
+scikit-image==0.16.2
